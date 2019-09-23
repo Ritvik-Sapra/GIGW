@@ -19,6 +19,9 @@ For the database, I used PHP MyAdmin. The name of the data base is **lab_data** 
 7. website_general
 All these will be SQL tables and SQL querries can be performed on all of the tables.
 
+After this, run *Apache* and *MySQL* from XAMPP control panel and type "localhost/lims". The first page opens up in login page. For first time, scroll down and click register as new membership, and the project should open up. Remember you user ID and password.
+By the way, if anyone is wondering, LIMS is short for **Laboratary Information Management system**.
+
 # What is the use of this project ?
 There are several Indian Government websites. Each of them needs to be checked for these guidelines (*reminding again that there are more than 100 guidelines and they are subject to change.*). It becomes almost imposible to keep a track record of all the websites and which guidelines it follows. Using this site we could do everything digital and the user could start off where he last left off. This becomes very useful when working with such a huge and complex data. Obviously more features could be incorporated in this like emailing the auto-generated report or give a message when all the guidelines are completed. I am sure all of the features would be updated and hopefully this project is in use right now :innocent:.
 
